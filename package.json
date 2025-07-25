@@ -1,9 +1,15 @@
 {
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
   "dependencies": {
     "@react-oauth/google": "^0.12.2",
     "axios": "^1.10.0",
     "clsx": "^2.1.1",
     "framer-motion": "^12.23.6",
+    "react-scripts": "^5.0.1",
     "react-toastify": "^11.0.5"
   },
   "devDependencies": {
